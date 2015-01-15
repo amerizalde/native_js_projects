@@ -1,4 +1,8 @@
 {
 	"name": "invaders",
-	"main": "index.html"
+	"main": "index.html",
+	"window": {
+		"frame": true,
+		"toolbar": false
+	}
 }
